@@ -1,3 +1,3 @@
 # mecha-blocks
 
-mecha modelling and simulations
+util stuff to mecha modeling and simulation
