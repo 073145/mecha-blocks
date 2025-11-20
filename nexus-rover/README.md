@@ -4,7 +4,7 @@
 
 The **Nexus Rover** is a foundational framework for developing highly adaptable, autonomous robotic agents. Conceived as a mobile cognitive node, it embodies the principles of **sensing, thinking, and acting** within dynamic environments. More than just a robot, it aims to be a physical extension of distributed intelligence, capable of perceiving its surroundings, making context-aware decisions, and executing actions in a safe, intelligent, and extensible manner.
 
-As an integral part of the `mecha-blocks` ecosystem, the Nexus Rover leverages advanced AI, robust physical computing, and modular design to provide a versatile platform for exploring the frontiers of human-machine symbiosis and emergent autonomy. It serves as a tangible interface for insights derived from projects like `noogenesis-engine` and `biosignal-processing`, manifesting abstract cognitive models into physical interaction.
+As an integral part of the `mecha-blocks` ecosystem, the Nexus Rover leverages advanced AI, robust physical computing, and modular design to provide a versatile platform for exploring the frontiers of human-machine symbiosis and emergent autonomy. It serves as a tangible interface for insights derived from advanced cognitive research and sophisticated bio-integration frameworks, manifesting abstract models of intelligence into dynamic physical interaction.
 
 ## ⚙️ Planned Features & Capabilities
 
