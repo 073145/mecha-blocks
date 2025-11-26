@@ -14,11 +14,11 @@ Unlike kinematic-chains, which handles the abstract geometry of motion, MECHA-BL
 
 We view robotics as a multidisciplinary convergence of "Atoms" and "Bits." Our philosophy centers on:
 
-Modular Architecture: Decomposing robotic systems into independent components (Actuators, Effectors, Chassis) that can be combined and reused across different projects.
+- Modular Architecture: Decomposing robotic systems into independent components (Actuators, Effectors, Chassis) that can be combined and reused across different projects.
 
-Iterative Prototyping: Utilizing simulation (Digital Twins) as a safe playground to validate algorithms and optimize mechanical designs before incurring manufacturing costs.
+- Iterative Prototyping: Utilizing simulation (Digital Twins) as a safe playground to validate algorithms and optimize mechanical designs before incurring manufacturing costs.
 
-Spectrum of Control: Exploring the continuum from manual teleoperation (human-in-the-loop) to full autonomous agency.
+- Spectrum of Control: Exploring the continuum from manual teleoperation (human-in-the-loop) to full autonomous agency.
 
 ---
 
